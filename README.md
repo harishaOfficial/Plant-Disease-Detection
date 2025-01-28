@@ -18,33 +18,32 @@ Command Prompt & IDLE (for execution)
 
 ## 📂 Project Structure
 ### Plant-Disease-Detection/
-│── models/                     # Trained AI models
+│── models/                                                                           # Trained AI models
 
-│── dataset/                     # Images of healthy and diseased plants
+│── dataset/                                                                          # Images of healthy and diseased plants
 
-│── notebooks/                   # Jupyter notebooks for training
+│── notebooks/                                                                        # Jupyter notebooks for training
 
-│── main.py                      # Main execution script
+│── main.py                                                                           # Main execution script
 
-│── requirements.txt             # Dependencies list
+│── requirements.txt                                                                  # Dependencies list
 
-│── settings.json                # Configuration file
+│── settings.json                                                                     # Configuration file
 
-│── README.md                    # Project documentation
+│── README.md                                                                         # Project documentation
 
 ## 🚀 How to Run the Project
 
 ### Clone the Repository
- git clone https://github.com/harishaOfficial/Plant-Disease-Detection.git 
-cd Plant-Disease-Detection
+  git clone https://github.com/harishaOfficial/Plant-Disease-Detection.git cd Plant-Disease-Detection
 
 ## Install Dependencies
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 Run the Application
 
-[ streamlit run main.py ]
+  streamlit run main.py 
 
 ## 📊 Dataset Details
 

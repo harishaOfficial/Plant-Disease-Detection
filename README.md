@@ -41,7 +41,7 @@ Command Prompt & IDLE (for execution)
 
   pip install -r requirements.txt
 
-Run the Application
+## Run the Application
 
   streamlit run main.py 
 

@@ -35,16 +35,16 @@ Command Prompt & IDLE (for execution)
 ## 🚀 How to Run the Project
 
 ### Clone the Repository
-[ git clone https://github.com/harishaOfficial/Plant-Disease-Detection.git 
-cd Plant-Disease-Detection]
+ git clone https://github.com/harishaOfficial/Plant-Disease-Detection.git 
+cd Plant-Disease-Detection
 
 ## Install Dependencies
 
-[pip install -r requirements.txt]
+pip install -r requirements.txt
 
 Run the Application
 
-[streamlit run main.py]
+[ streamlit run main.py ]
 
 ## 📊 Dataset Details
 

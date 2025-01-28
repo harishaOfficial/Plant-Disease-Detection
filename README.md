@@ -48,13 +48,17 @@ Command Prompt & IDLE (for execution)
 ## 📊 Dataset Details
 
 The dataset consists of images of healthy and diseased plants.
+
 Classes include powdery mildew, rust, bacterial spot, and healthy leaves.
+
 Images are preprocessed using OpenCV before being fed into the deep learning model.
 
 ## 🔬 Model Architecture
 
 CNN (Convolutional Neural Network) for image classification.
+
 Pretrained models like VGG16 or MobileNet can improve accuracy.
+
 Adam Optimizer and Categorical Crossentropy loss function used.
 
 ## 🎯 Key Features  
